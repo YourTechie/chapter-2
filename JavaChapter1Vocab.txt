@@ -1,0 +1,46 @@
+Computer Program -Is a set of instructions that you write to twll a computer what to do.
+Hardware – the general term for computer equipment
+Software – Is the general term for computer programs
+Application Software – performs tasks for user 
+Logic- behind any program involves executing the vatious statements and procedures in the correct order to produce the desired results
+Machine Language- The circuitry level language that represents a series of on and off swithces
+Syntax- refers to the rules that define the ways language elementsare used together correctly to create usable statements
+Keywords- are the words that are part of a programming language
+Program Statements- are similar to English statements
+Commands- are program statements
+Compiler- is a program that translates language statements into machine code
+Interpreter- is a program that translates language statements into machine code
+Executing- a statement or program means to carry it out
+Debugging- a program is the process that frees it of all errors
+Bug- is a flaw or mistake
+Logic Error- is a programming bug that allows a source program to be translated to an executable program
+Semantic Errors- occur when you use a correct word in the wrong context
+Procedural programming- is a style of programming in which sets of operations are executed one after another in sequence
+Variables- are named computer memory locations that hold values
+Procedures- are sets of operations performed by a computer program
+Class- is a group or collection of objects with common properties
+Attributes-are the characteristics that define an object as part of a class
+Properties- are attributes of a class
+Object- is an instance of a class
+Instance- of a class is an object
+Method – is a self-contained block of program code, similar to a procedure
+Encapsulation- refers to the enclosure of data and methods within an object.
+Inheritance-is the ability to create classes that share the attributes and methods of existing classes, but with more specific features.
+Java- is an object-oriented language used both for genera-purpose business applications and for interactive. World wide web based internet applications
+Java Virtual Machine- is a hypothetical computer on which java runs
+Java Applications- are stand-alone java programs
+Literal String- is a series of characters that appear exactly as entered. Any literal string in Java appears between standard quotations.
+Arguments- are information passed to a method so it can perform its task
+Identifier – is a name of program component such asa class, object, or variable
+Unicode- is an interactions system of character representation
+Whitespace- is any combination of nonprinting characters, such as spaces, tabs, and carriage returns.
+Parsing- is the process the compiler uses to divide surce code into meaningful portions for analysis 
+Run-time error - 
+Comment out 
+Line Comments
+Block Comments
+Dialog Box – is a GUI object resembling a window in which you can place messages you want to display. 
+Import Statement
+JDK
+SDK
+
