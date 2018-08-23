@@ -7,7 +7,7 @@ Example of turning in Debugging excercise one <a href= https://github.com/WestJa
 
 Chapter 1 assignments
 
-Obejective
+Objective
 Students should be able to understand the difference between an Abstract Class an Object Class and an Instance Class. 
 
 Students should be able to identify the characteristics of a Main method. And how to write a simple program in the main. 
